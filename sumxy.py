@@ -5,4 +5,4 @@ y = input()
 num1=int(x)
 num2 =int(y)
 sum = num1+num2
-print('Sum of the two numbers is:', sum)
+print('Sum of the numbers is:', sum)
