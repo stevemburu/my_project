@@ -1,1 +1,1 @@
-Git is an open source distributed version control system (DVCS).
+Git is an open source distributed version control system (DVCS). Nice one
